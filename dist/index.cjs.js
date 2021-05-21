@@ -400,7 +400,7 @@ var Icon$p = function (props) {
 };
 
 var Icon$q = function (props) {
-    return (React__default['default'].createElement("img", { width: "220px", height: "50px", src: "/images/mobile-logo.png" }));
+    return (React__default['default'].createElement("img", { width: "50px", height: "50px", src: "/images/mobile-logo.png" }));
 };
 
 var Icon$r = function (props) {
